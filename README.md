@@ -34,7 +34,7 @@ Security Group        Network ACL
 
 ---
 
-## ☁️ Key AWS Services
+## Key AWS Services
 
 ### Amazon VPC
 A logically isolated network where you control IP ranges, routing, and security.
